@@ -8,7 +8,7 @@ class MainSplashView extends StatefulWidget {
   @override
   State<MainSplashView> createState() => _MainSplashViewState();
 }
-
+///
 class _MainSplashViewState extends State<MainSplashView> {
   
   @override
