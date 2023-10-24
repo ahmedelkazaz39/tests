@@ -6,11 +6,11 @@ class HomeView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Test App'),
+        title: const Text('Test App'),
         centerTitle: true,
       ),
       body: Container(
-         color: Colors.amber,
+        //  color: Colors.amber,
       ),
     );
   }
